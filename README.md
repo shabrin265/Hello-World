@@ -1,2 +1,4 @@
-# Hello-World
-This is helo world program written in c language
+void main()
+{
+print("Hello shabrin!");
+}
